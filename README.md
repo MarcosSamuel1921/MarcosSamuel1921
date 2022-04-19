@@ -1,3 +1,3 @@
-Estou me graduando em Sistemas de Informação.
+  📚 Estou me graduando em Sistemas de Informação.
 
-Estudando Python.
+   ✏ Estudando Python.
